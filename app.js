@@ -3,7 +3,7 @@ const app = new Vue({
     data () {
         return {
         api_key: '41fa6d773fc61a9b8f1296bfb8780b97',
-        url_base: 'http://api.openweathermap.org/data/2.5/weather?id=524901',
+        url_base: 'https://api.openweathermap.org/data/2.5/weather?id=524901',
         query: '',
         weather: {}
         }
